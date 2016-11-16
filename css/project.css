@@ -1,0 +1,5 @@
+header.carousel .fill {
+    background-image: url(img/Resume.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
